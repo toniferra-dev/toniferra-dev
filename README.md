@@ -30,10 +30,13 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
+  [Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Affinity Designer](https://img.shields.io/badge/-Affinity Designer-333333?style=flat&logo=affinity-designer)
+  ![Affinity Designer](https://img.shields.io/badge/-Affinty%20Designer-333333?logo=affinitydesigner)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Affinity Photo](https://img.shields.io/badge/-Affinty%20Photo-333333?logo=affinityphoto)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![Affinity Designer](https://img.shields.io/badge/-Affinty%20Designer-333333?logo=affinitydesigner)
 
 <br/>
 
