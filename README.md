@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com//Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://raw.githubusercontent.com/1531517570765.jpeg">
 
 <h2> Hola 👋🏻 soy Toni Ferrà</h2>
 
