@@ -1,4 +1,4 @@
-<img src="../1531517570765.jpeg">
+<img src="./1531517570765.jpeg">
 
 <h2> Hola 👋🏻 soy Toni Ferrà</h2>
 
